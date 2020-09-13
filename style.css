@@ -10,7 +10,7 @@
     height: 100%;
 
     background: linear-gradient(50deg, #00c6a7, #1e4d92);
-    clip-path: polygon(0% 0%, 100% 0%, 100% 75%,50% 100% ,0% 75%);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 85%,50% 100% ,0% 85%);
 
 }
 
@@ -103,3 +103,8 @@ section {
    background:linear-gradient(57deg,#1e4d92 ,#00c6a7)
 }
 
+
+.middle-continer {
+    background-color: #E4F9F5;
+    
+}
